@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🛡️ Quentin GROS | Étudiant en Cybersécurité & Réseaux (SISR)
 
-<!--
-**quentin-gr68/quentin-gr68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant passionné par l'infrastructure système, les réseaux et la sécurité offensive/défensive. Actuellement en **BTS SIO (SISR)** au lycée Camille Sée.
 
-Here are some ideas to get you started:
+## 👤 À propos de moi
+- 🎓 **Formation :** BTS SIO option SISR (Solutions d’infrastructure, systèmes et réseaux).
+- 🛡️ **Focus :** Cybersécurité, durcissement système (Hardening), et administration réseaux Cisco.
+- 🚒 **Engagement :** Sapeur-Pompier Volontaire (SPV) - Discipline, rigueur et gestion du stress.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Expertise Technique
+- **Systèmes :** Windows Server, Linux (Debian/Kali), Virtualisation (VMware/VirtualBox).
+- **Réseaux :** Configuration Cisco, VLAN, routage IP, sécurité des flux.
+- **Programmation :** Développement en C et bases du Web.
+- **Méthodologie :** Analyse de risques (RISC) et sécurisation des infrastructures.
+
+## 📊 Statistiques GitHub
+![Stats de Quentin](https://github-readme-stats.vercel.app/api?username=quentin-gr68&show_icons=true&theme=tokyonight)
+
+---
+📫 **Me contacter :** [LinkedIn](https://www.linkedin.com/in/quentin-gros-472944292/)
