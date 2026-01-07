@@ -13,7 +13,5 @@
 - **Programmation :** Développement en C et bases du Web.
 - **Méthodologie :** Analyse de risques (RISC) et sécurisation des infrastructures.
 
-## 📊 Statistiques GitHub
-
 ---
 📫 **Me contacter :** [LinkedIn](https://www.linkedin.com/in/quentin-gros-472944292/)
