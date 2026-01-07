@@ -14,7 +14,6 @@
 - **Méthodologie :** Analyse de risques (RISC) et sécurisation des infrastructures.
 
 ## 📊 Statistiques GitHub
-[Stats de Quentin](https://github-readme-stats.vercel.app/api?username=quentin-gr68&show_icons=true&theme=tokyonight)
 
 ---
 📫 **Me contacter :** [LinkedIn](https://www.linkedin.com/in/quentin-gros-472944292/)
