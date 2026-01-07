@@ -1,4 +1,4 @@
-# 📌​​​ Quentin GROS | Étudiant en Cybersécurité & Réseaux (SISR)
+# 📍​​​​ Quentin GROS | Étudiant en Cybersécurité & Réseaux (SISR)
 
 Étudiant passionné par l'infrastructure système, les réseaux et la sécurité offensive/défensive. 
 Actuellement en **BTS SIO (SISR)** au lycée Camille Sée.
