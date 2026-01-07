@@ -8,7 +8,7 @@ Actuellement en **BTS SIO (SISR)** au lycée Camille Sée.
 - 👀​ **Focus :** Cybersécurité, durcissement système (Hardening), et administration réseaux Cisco.
 - 🚒 **Engagement :** Sapeur-Pompier Volontaire (SPV) - Discipline, rigueur et gestion du stress.
 
-## 💻 Expertise Technique
+## 📎​ Expertise Technique
 - **Systèmes :** Windows Server, Linux (Debian/Kali), Virtualisation (VMware/VirtualBox).
 - **Réseaux :** Configuration Cisco, VLAN, routage IP, sécurité des flux.
 - **Programmation :** Développement en C et bases du Web.
