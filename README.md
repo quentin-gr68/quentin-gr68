@@ -5,7 +5,7 @@ Actuellement en **BTS SIO (SISR)** au lycée Camille Sée.
 
 ## 👤 À propos de moi
 - 🎓 **Formation :** BTS SIO option SISR (Solutions d’infrastructure, systèmes et réseaux).
-- 🛡️ **Focus :** Cybersécurité, durcissement système (Hardening), et administration réseaux Cisco.
+- 👀​ **Focus :** Cybersécurité, durcissement système (Hardening), et administration réseaux Cisco.
 - 🚒 **Engagement :** Sapeur-Pompier Volontaire (SPV) - Discipline, rigueur et gestion du stress.
 
 ## 💻 Expertise Technique
@@ -15,4 +15,4 @@ Actuellement en **BTS SIO (SISR)** au lycée Camille Sée.
 - **Méthodologie :** Analyse de risques (RISC) et sécurisation des infrastructures.
 
 ---
-📫 **Me contacter :** [LinkedIn](https://www.linkedin.com/in/quentin-gros-472944292/)
+☎️​ **Me contacter :** [LinkedIn](https://www.linkedin.com/in/quentin-gros-472944292/)
